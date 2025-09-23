@@ -5,6 +5,10 @@ const val NOTE_ID_ARG = "noteId"
 
 
 sealed class Routes(val route: String) {
+
+    data object Login : Routes("login")
+    data object SignUp : Routes("signUp")
+
     //Rota para a lista de notas
     data object NoteList : Routes("noteList")
 
