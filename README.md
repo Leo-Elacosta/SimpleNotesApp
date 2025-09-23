@@ -4,11 +4,6 @@ Um aplicativo Android simples e funcional para gerenciamento de tarefas (To-Do l
 
 Cada usuário pode se cadastrar e ter sua própria lista de tarefas privada, sincronizada na nuvem e acessível de qualquer dispositivo.
 
-## 📱 Screenshots
-
-![Screenshot do App To-Do List](screenshots/screenshot_main.png)
-
-
 ## ✨ Funcionalidades Principais
 
 * **Autenticação de Usuário:** Sistema completo de Cadastro e Login utilizando **Firebase Authentication** com provedor de E-mail e Senha.
